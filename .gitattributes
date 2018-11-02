@@ -1,2 +1,32 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+Initial ideas:
+  -home page has some kind of picture of Ukraine in the shape of the country (hope you know what i mean), with the name of 
+   our website in the middle.
+  -maybe some kind of scroll feature? if we can do it. look at "http://www.feedmusic.com/"
+  -or do a similar home page design to "http://www.mikiyakobayashi.com/projects" but have pictures of different landmarks. 
+   we can even do this for the different pages within the website (so not on the home page) i.e. landmarks, places to eat.
+  -and love this "http://www.mikiyakobayashi.com/projects/furniture/" menu bar
+  -Loved the way this one was layed out too!  "https://wovenmagazine.com/" enjoyed their scroll feature on the home page, we can do 
+   something similar.
+   
+   
+Ok so we need to decide the pages we want to make. I think we'll definitly have a landmark page. Then places to eat? Have cofee? 
+We should probably just stick to those to not complicate things? So maybe have like 6 land marks to focus on and 6 food/cofee places?
+Maybe a bit more, but im just thinking about if we split the page into a grid similar to "http://www.mikiyakobayashi.com/projects".
+
+So over reading week we should start to decide on land marks at least and maybe start making a html and css file for the home page.
+I'll probably start doing something with the menu bar, experiment a bit.
+
+I'll upload a html and css file onto the master branch and we can start to make branches and start working on it.
+
+Really excited about this. Hope this is fine, and you understand what i have in my head at some point.
+Please do let me know what your thinking :) 
+I think we could just keep writting ideas and suff on here for now :)
+
+Many thanks,
+Vita
+
+  
